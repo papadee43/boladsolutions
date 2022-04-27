@@ -1,0 +1,123 @@
+body {
+  font-family: sans-serif;
+}
+#Bola{
+  text-align: center;
+  padding-top: 40px;
+}
+.Adun {
+  background-color: #DDDDDDDD;
+}
+h1 {
+  font-family: cursive;
+  color: #34656D;
+}
+h4 {
+  font-family: serif;
+  color: #334443;
+}
+.jumbotrn{
+  text-align: center;
+padding-top: 50px;
+padding-bottom: 60px;
+font-family: cursive;
+}
+#pricing {
+  padding: 100px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.tell {
+  background-color: black;
+  color: #DDDDDDDD;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+.itel{
+  background-color: #DDDDDDDD;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+#Bolad {
+  background-color: #DDDDDDDD;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.header
+{
+width:100%;
+margin:0;
+padding:0;
+}
+.header img
+ {
+	width: 100%;
+	height: 500px;
+	margin: 0;
+	padding:0;
+  }
+
+  .project
+  {
+    position: sticky;
+z-index: 1;
+  background-color: #2B2E4A;
+  top: 0px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  float:left;
+  }
+  .pad {
+    padding-right: 60PX;
+    padding-left: 90PX;
+  }
+
+#deji {
+  padding-left: 150px;
+  padding-top: 40px;
+}
+.project a.active
+{
+background-color: grey;
+color: white;
+}
+
+.head-1{
+  text-align: center;
+  padding: 7% 15%;
+padding-bottom: 8%;
+padding-top: 11%;
+}
+.head-2 {
+  text-align: center;
+  padding: 7% 15%;
+padding-bottom: 8%;
+padding-top: 11%;
+}
+.project a:hover
+{
+	background-color: #ddd;
+	color: black;
+}
+.project a.right
+{
+	float: right;
+}
+.project a
+{
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+}
+.hth {
+padding-left: 30px;
+border-radius: 30%;
+  height: 40px;
+}
